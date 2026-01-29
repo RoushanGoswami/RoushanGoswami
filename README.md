@@ -1,6 +1,6 @@
-<!-- ===================== HERO / INTRO ===================== -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22d3ee&height=180&section=header&text=Roushan%20Goswami&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22d3ee&height=190&section=header&text=Roushan%20Goswami&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">
@@ -12,38 +12,29 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RrZ2ZqN3R1eHZyNnN0cW80b2k3Z2l6ZGFjbnNqZTh2NmZxZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
-</p>
-
 💻 **Full Stack Developer** from **Gujarat, India 🇮🇳**  
-🔥 Highly **passionate**, **self-motivated**, and obsessed with writing quality code  
+🔥 Highly **passionate**, **self-motivated**, and focused on building quality software  
 
-I love building **modern, scalable, and user-friendly web applications**.  
-I enjoy working across the **entire stack** — from pixel-perfect UI to powerful backend logic.
+I enjoy creating **clean, scalable, and user-friendly web applications**.  
+From crafting smooth front-end interfaces to designing solid back-end systems, I love working across the **entire tech stack**.
 
-♟️ Chess isn’t just a hobby for me — it shapes my **problem-solving, planning, and decision-making**, just like good software design.
+♟️ Chess plays a big role in my thinking — it sharpens my **logic, patience, and strategic planning**, which directly reflects in my coding style.
 
 ---
 
-## ⚡ What Defines Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3V0lsGtTMSB5YNgc/giphy.gif" width="350" />
-</p>
-
-- 🚀 Strong logical & analytical thinking  
-- 🧼 Clean, readable & maintainable code  
-- 📚 Constant learner & improver  
-- 🎯 Discipline + consistency mindset  
-- 🤝 Team-friendly & growth-focused  
+## ⚡ Core Strengths
+- 🚀 Strong problem-solving mindset  
+- 🧼 Clean & maintainable code  
+- 📚 Continuous learner  
+- 🎯 Discipline & consistency  
+- 🤝 Team-oriented attitude  
 
 ---
 
@@ -53,10 +44,6 @@ I enjoy working across the **entire stack** — from pixel-perfect UI to powerfu
 ---
 
 ## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" />
-</p>
 
 ### 🌐 Frontend
 <p align="center">
@@ -80,55 +67,61 @@ I enjoy working across the **entire stack** — from pixel-perfect UI to powerfu
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RoushanGoswami&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoushanGoswami&show_icons=true&theme=algolia&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoushanGoswami&theme=algolia&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RoushanGoswami&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RoushanGoswami&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoushanGoswami&layout=compact&theme=algolia&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoushanGoswami&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+  />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Live Animation)
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github.com/RoushanGoswami/RoushanGoswami/blob/output/github-contribution-grid-snake.svg" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=RoushanGoswami&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"
+  />
 </p>
 
 ---
 
-## 🚀 What You’ll See Here
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" />
+  <img 
+    src="https://github.com/RoushanGoswami/RoushanGoswami/blob/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+  />
 </p>
 
+---
+
+## 🚀 What You’ll Find on My GitHub
 - 🔥 Full Stack Projects  
 - 🧪 Learning & Experiments  
 - 🧩 Real-world problem solving  
-- 📈 Continuous growth & improvement  
+- 📈 Continuous improvement  
 
 ---
 
 ## 💡 Developer Mindset
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Code+with+Passion+💻;Think+Before+You+Build+♟️;Consistency+Beats+Motivation+🔥;Build.+Break.+Learn.+Repeat.+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Code+with+Purpose+💻;Think+Before+You+Build+♟️;Consistency+Creates+Excellence+🔥;Build.+Learn.+Improve.+Repeat.+🚀" />
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0ea5e9&height=120&section=footer" />
