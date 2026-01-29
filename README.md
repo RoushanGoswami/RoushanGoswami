@@ -1,29 +1,111 @@
-<h1 align="center">Hi 👋, I'm Roushan Goswami</h1> <h3 align="center">A passionate Full Stack Web Developer 💯 from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roushangoswami&label=Profile%20views&color=0e75b6&style=flat" alt="roushangoswami" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roushangoswami" alt="roushangoswami" /></a> </p> <h3 align="left">Connect with me:</h3> <p align="left"> </p>
-
----
-
-
-### ✍️ Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-</p>
-
-### 📈 GitHub Stats
+<!-- ===================== HERO SECTION ===================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=1000&color=00E6FE&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Roushan+Goswami;Full+Stack+Developer+💻;Passionate+%7C+Motivated+%7C+Focused;Chess+Player+♟️+Strategic+Thinker;Building+Ideas+Into+Reality+🚀" />
+</h1>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RoushanGoswami&show_icons=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RoushanGoswami&theme=github-dark" /></p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
 
----
-<!-- Alternate Graph without Date Range --> 
-<h2 align="left">🚀 My GitHub Journey</h2> 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoushanGoswami&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RoushanGoswami&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
+
+## 🚀 About Me  
+
+💻 **Full Stack Developer** from **Gujarat, India 🇮🇳**  
+🔥 Fully **passionate**, **self-motivated**, and deeply committed to my work  
+
+I enjoy building **clean, scalable, and user-friendly web applications**.  
+From designing smooth front-end interfaces to crafting robust back-end systems, I love working across the **entire stack**.
+
+♟️ Chess helps me sharpen my **logical thinking, patience, and strategic mindset**, which directly reflects in my coding approach.
+
+---
+
+## 🧠 Core Strengths  
+- 🚀 Strong problem-solving ability  
+- 🧼 Clean & maintainable code  
+- 📚 Continuous learner  
+- 🎯 Highly disciplined & consistent  
+- 🤝 Team-oriented with a growth mindset  
+
+---
+
+## 🎓 Education  
+📘 **12th Science**
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🌐 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+</p>
+
+### 🧩 Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</p>
+
+### 🗄️ Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+</p>
+
+### 🧰 Tools & Others  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RoushanGoswami&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoushanGoswami&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoushanGoswami&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoushanGoswami&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/RoushanGoswami/RoushanGoswami/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 What You’ll Find on My GitHub  
+- 🔥 Full Stack Projects  
+- 🧪 Experiments & Practice  
+- 🧩 Real-world problem solving  
+- 📈 Daily improvement & learning  
+
+---
+
+## 💬 Developer Mindset  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Code+with+Passion+💻;Think+Like+a+Chess+Player+♟️;Consistency+Creates+Excellence+🔥;Build.+Learn.+Repeat.+🚀" />
+</p>
+
+---
+
+## ✨ Personal Motto  
+> **“Discipline, curiosity, and consistency are the foundations of great software.”**
+
