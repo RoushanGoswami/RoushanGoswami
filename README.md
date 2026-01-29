@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22d3ee&height=190&section=header&text=Roushan%20Goswami&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+💻;Passionate+%7C+Motivated+%7C+Focused;Chess+Player+♟️+Strategic+Thinker;Turning+Ideas+Into+Reality+🚀" />
-</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RoushanGoswami&label=Profile%20Views&color=38bdf8&style=for-the-badge" />
 </p>
@@ -88,16 +84,6 @@ From crafting smooth front-end interfaces to designing solid back-end systems, I
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=RoushanGoswami&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"
-  />
-</p>
-
----
-
 ## 🐍 Contribution Graph
 
 <p align="center">
@@ -116,12 +102,6 @@ From crafting smooth front-end interfaces to designing solid back-end systems, I
 - 📈 Continuous improvement  
 
 ---
-
-## 💡 Developer Mindset
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Code+with+Purpose+💻;Think+Before+You+Build+♟️;Consistency+Creates+Excellence+🔥;Build.+Learn.+Improve.+Repeat.+🚀" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0ea5e9&height=120&section=footer" />
