@@ -12,7 +12,11 @@
 </p>
 
 ---
+### ✍️ Dev Quote
 
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
 ## 👨‍💻 About Me
 
 💻 **Full Stack Developer** from **Gujarat, India 🇮🇳**  
