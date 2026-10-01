@@ -1,441 +1,380 @@
-<!-- ====================================================== -->
+```markdown
+<!-- =====================================================
+     ROUSHAN GOSWAMI | GITHUB PROFILE
+     FUTURISTIC DEVELOPER PORTFOLIO
+===================================================== -->
 
-<!--                  ROUSHAN GOSWAMI                       -->
+<div align="center">
 
-<!--              GITHUB PROFILE README                     -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05070D,50:0B1220,100:2563EB&text=ROUSHAN%20GOSWAMI&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=60&descSize=17&animation=fadeIn" alt="Roushan Goswami - Full Stack Web Developer"/>
 
-<!-- ====================================================== -->
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:071a2f,75:0c4a6e,100:00d9ff&text=ROUSHAN%20GOSWAMI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=18&descAlignY=58&descColor=67e8f9" width="100%">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=50&lines=Building+Modern+Web+Applications;Exploring+Backend+Engineering;React.js+%7C+Next.js+%7C+Node.js;Turning+Ideas+Into+Solutions;Learning.+Building.+Improving." alt="Animated developer introduction"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RoushanGoswami&label=PROFILE%20VIEWS&style=for-the-badge&color=00d9ff&labelColor=020617">
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/RoushanGoswami">
-    <img src="https://img.shields.io/badge/GITHUB-RoushanGoswami-020617?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/roushan-goswami-574141392/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+<a href="https://github.com/RoushanGoswami">
+<img src="https://img.shields.io/badge/GitHub-Profile-05070D?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/roushan-goswami-574141392/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-05070D?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
+</a>
 
-<br>
+<br/><br/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="380">
-</p>
+<img src="https://img.shields.io/badge/LOCATION-GUJARAT%2C%20INDIA-0B1220?style=flat-square&labelColor=05070D" alt="Location"/>
+<img src="https://img.shields.io/badge/CURRENT%20FOCUS-BACKEND%20DEVELOPMENT-0B1220?style=flat-square&labelColor=05070D" alt="Backend development"/>
 
-<br>
+<br/><br/>
 
-<h2 align="center">BUILDING THE WEB OF TOMORROW</h2>
+**ENGINEER IDEAS. BUILD SOLUTIONS. SHAPE THE FUTURE.**
 
-<p align="center">
-  Full Stack Web Developer focused on creating
-  <br>
-  <b>modern • responsive • practical</b> web applications.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FRONTEND-00D9FF?style=flat-square&labelColor=020617">
-  <img src="https://img.shields.io/badge/BACKEND-38BDF8?style=flat-square&labelColor=020617">
-  <img src="https://img.shields.io/badge/DATABASE-22C55E?style=flat-square&labelColor=020617">
-</p>
-
-<br>
+</div>
 
 ---
 
-<h2 align="center">◈ ABOUT ME</h2>
+## `01` / ABOUT ME
 
-<p align="center">
-  I'm <b>Roushan Goswami</b>, a Full Stack Web Developer from
-  <b>Gujarat, India 🇮🇳</b>.
-</p>
+<img align="right" width="130" src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb&theme=dark" alt="Core technology icons"/>
 
-<p align="center">
-  I enjoy transforming ideas into functional digital experiences.
-  <br>
-  My journey revolves around modern JavaScript technologies,
-  <br>
-  frontend development, backend systems, APIs and databases.
-</p>
+I'm **Roushan Goswami**, a Full Stack Web Developer from Gujarat, India.
 
-<p align="center">
-  I believe great software should not only work —
-  <br>
-  <b>it should be useful, intuitive and enjoyable to use.</b>
-</p>
+I focus on building modern web applications using the JavaScript ecosystem, combining frontend development with backend technologies and database integration.
 
-<br>
+My development interests include:
 
----
+- Modern frontend application development.
+- Backend engineering and REST APIs.
+- Database design and integration.
+- Scalable application architecture.
+- Writing structured and maintainable code.
 
-<h2 align="center">⚡ WHAT I DO</h2>
+**Currently:** Strengthening my backend development skills with Node.js, Express.js, MongoDB and Mongoose.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FRONTEND-REACT%20%7C%20NEXT.JS-00D9FF?style=for-the-badge&labelColor=020617">
-</p>
+<br clear="right"/>
 
-<p align="center">
-  Responsive interfaces • Components • State Management
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BACKEND-NODE.JS%20%7C%20EXPRESS-38BDF8?style=for-the-badge&labelColor=020617">
-</p>
-
-<p align="center">
-  Server-side development • REST APIs • Application Logic
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DATABASE-MONGODB%20%7C%20SQL-22C55E?style=for-the-badge&labelColor=020617">
-</p>
-
-<p align="center">
-  Data management • CRUD • Database fundamentals
-</p>
-
-<br>
+> My philosophy: Learn the fundamentals. Build practical applications. Understand the architecture. Improve continuously.
 
 ---
 
-<h2 align="center">🧬 TECHNOLOGY STACK</h2>
+## `02` / TECHNOLOGY ECOSYSTEM
 
-<h3 align="center">Frontend</h3>
+### FRONTEND ENGINEERING
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark">
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap&theme=dark" alt="HTML CSS JavaScript TypeScript React Next.js Bootstrap"/>
+</div>
 
-<h3 align="center">Backend & Database</h3>
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React.js` `Next.js` `Bootstrap`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark">
-</p>
+### BACKEND ENGINEERING
 
-<h3 align="center">Tools</h3>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js"/>
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark">
-</p>
+`Node.js` `Express.js` `REST APIs`
 
-<br>
+### DATABASE TECHNOLOGIES
 
----
+<div align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB and MySQL"/>
+</div>
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+`MongoDB` `Mongoose` `MySQL`
 
-<p align="center">
-  <i>Selected projects from my development journey.</i>
-</p>
+### PROGRAMMING LANGUAGES
 
-<br>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts&theme=dark" alt="C C++ JavaScript TypeScript"/>
+</div>
 
-<h3 align="center">01 · USER TABLE APP</h3>
+`C` `C++` `JavaScript` `TypeScript`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=000000">
-</p>
+### DEVELOPMENT TOOLS
 
-<p align="center">
-  A modern user-data application built with Next.js and React,
-  <br>
-  focused on structured components, data presentation and responsive UI.
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=dark" alt="VS Code Git GitHub Postman"/>
+</div>
 
-<p align="center">
-  <a href="https://github.com/RoushanGoswami/user-table-app">
-    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=020617">
-  </a>
-</p>
-
-<br>
-
-<hr>
-
-<br>
-
-<h3 align="center">02 · REACT DEVELOPMENT</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=000000">
-  <img src="https://img.shields.io/badge/REDUX%20TOOLKIT-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff">
-</p>
-
-<p align="center">
-  A collection of practical React applications covering
-  <br>
-  components, state management, API integration, CRUD concepts
-  <br>
-  and reusable application development.
-</p>
-
-<p align="center">
-  <a href="https://github.com/RoushanGoswami/REACT-JS">
-    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=020617">
-  </a>
-</p>
-
-<br>
-
-<hr>
-
-<br>
-
-<h3 align="center">03 · JAVASCRIPT APPLICATIONS</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff">
-</p>
-
-<p align="center">
-  A practical JavaScript collection featuring interactive applications,
-  <br>
-  quizzes, clocks, time applications and core JavaScript concepts.
-</p>
-
-<p align="center">
-  <a href="https://github.com/RoushanGoswami/JAVASCRIPT">
-    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=020617">
-  </a>
-</p>
-
-<br>
-
-<hr>
-
-<br>
-
-<h3 align="center">04 · E-COMMERCE WEBSITE</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff">
-</p>
-
-<p align="center">
-  A practical e-commerce website demonstrating responsive layouts,
-  <br>
-  Bootstrap components and frontend interface development.
-</p>
-
-<p align="center">
-  <a href="https://github.com/RoushanGoswami/BOOTSTRAP">
-    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=020617">
-  </a>
-</p>
-
-<br>
+`Visual Studio Code` `Git` `GitHub` `Postman`
 
 ---
 
-<h2 align="center">🌌 DEVELOPMENT JOURNEY</h2>
+## `03` / TECHNICAL CAPABILITIES
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML%20%2B%20CSS-FOUNDATION-00D9FF?style=for-the-badge&labelColor=020617">
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  ↓
-</p>
+### FRONTEND DEVELOPMENT
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-LOGIC-F7DF1E?style=for-the-badge&labelColor=020617">
-</p>
+- Component-based development
+- Responsive interfaces
+- React applications
+- Next.js development
+- State management
+- JavaScript functionality
 
-<p align="center">
-  ↓
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REACT-INTERFACES-61DAFB?style=for-the-badge&labelColor=020617">
-</p>
+### BACKEND DEVELOPMENT
 
-<p align="center">
-  ↓
-</p>
+- Server-side development
+- Express.js routing
+- REST API development
+- CRUD operations
+- Request and response handling
+- Application logic
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NEXT.JS-MODERN%20WEB-FFFFFF?style=for-the-badge&labelColor=020617">
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  ↓
-</p>
+### DATABASE MANAGEMENT
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NODE.JS%20%2B%20EXPRESS-BACKEND-339933?style=for-the-badge&labelColor=020617">
-</p>
+- MongoDB integration
+- Mongoose ODM
+- Schema definition
+- Database connectivity
+- Data operations
+- MySQL fundamentals
 
-<p align="center">
-  ↓
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MONGODB%20%2B%20SQL-DATABASE-22C55E?style=for-the-badge&labelColor=020617">
-</p>
+### DEVELOPMENT PRACTICES
 
-<br>
+- Git version control
+- Repository management
+- Modular code organization
+- Debugging
+- API testing
+- Technical documentation
 
----
-
-<h2 align="center">🔥 CURRENTLY LEARNING</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=react&logoColor=000000">
-  <img src="https://img.shields.io/badge/NEXT.JS-FFFFFF?style=for-the-badge&logo=next.js&logoColor=000000">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/EXPRESS.JS-FFFFFF?style=for-the-badge&logo=express&logoColor=000000">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff">
-</p>
-
-<p align="center">
-  <b>Learning • Building • Improving</b>
-</p>
-
-<br>
+</td>
+</tr>
+</table>
 
 ---
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+## `04` / FEATURED PROJECTS
 
-<br>
+Practical development work focused on application functionality, problem-solving and engineering fundamentals.
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RoushanGoswami&show_icons=true&hide_border=true&bg_color=020617&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github&cache_seconds=1800"
-    width="48%"
-  >
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=RoushanGoswami&theme=dark&hide_border=true&background=020617&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
-    width="48%"
-  >
-</p>
+### 01. Employee Management System
 
-<br>
+<a href="https://github.com/RoushanGoswami/employee-app">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=05070D" alt="View Employee Management System"/>
+</a>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoushanGoswami&layout=compact&hide_border=true&bg_color=020617&title_color=00D9FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800"
-    width="45%"
-  >
-</p>
+**Backend Development | REST API | Database Integration**
 
-<br>
+A backend application for employee management using Node.js, Express.js and MongoDB.
+
+**Key implementations:**
+- Employee CRUD operations.
+- Express.js routing and controllers.
+- Mongoose models and schemas.
+- MongoDB connectivity.
+- Structured request handling.
+
+`Node.js` `Express.js` `MongoDB` `Mongoose`
 
 ---
 
-<h2 align="center">♟️ BEYOND CODE</h2>
+### 02. Blog Management Application
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CHESS-STRATEGY-00D9FF?style=for-the-badge&labelColor=020617">
-  <img src="https://img.shields.io/badge/GAMING-CREATIVITY-38BDF8?style=for-the-badge&labelColor=020617">
-  <img src="https://img.shields.io/badge/CONTENT%20CREATION-CREATIVITY-22C55E?style=for-the-badge&labelColor=020617">
-</p>
+<a href="https://github.com/RoushanGoswami/REACT-JS">
+<img src="https://img.shields.io/badge/VIEW%20REACT%20REPOSITORY-2563EB?style=for-the-badge&logo=github" alt="View React repository"/>
+</a>
 
-<p align="center">
-  <i>
-    Different interests.
-    One mindset.
-    <br>
-    <b>Keep learning. Keep building.</b>
-  </i>
-</p>
+**React.js | Redux Toolkit**
 
-<br>
+A blog management application featuring:
 
----
+- CRUD functionality.
+- Centralized state management.
+- Search and filtering.
+- Local Storage integration.
 
-<h2 align="center">⚡ MY MINDSET</h2>
+`React.js` `Redux Toolkit` `JavaScript`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILD-00D9FF?style=for-the-badge&labelColor=020617">
-</p>
-
-<p align="center">
-  ↓
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LEARN-38BDF8?style=for-the-badge&labelColor=020617">
-</p>
-
-<p align="center">
-  ↓
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IMPROVE-22C55E?style=for-the-badge&labelColor=020617">
-</p>
-
-<p align="center">
-  ↓
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REPEAT-FACC15?style=for-the-badge&labelColor=020617">
-</p>
-
-<br>
-
-<h2 align="center">
-  BUILD SOMETHING WORTH REMEMBERING.
-</h2>
-
-<br>
+*Find the Blog Management App directory inside the React.js repository.*
 
 ---
 
-<h2 align="center">🤝 LET'S CONNECT</h2>
+### 03. User Table Application
 
-<p align="center">
-  Open to collaboration, learning opportunities
-  <br>
-  and interesting projects.
-</p>
+<a href="https://github.com/RoushanGoswami/user-table-app">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=05070D" alt="View User Table Application"/>
+</a>
 
-<br>
+**User Management | Data Handling**
 
-<p align="center">
-  <a href="https://github.com/RoushanGoswami">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-111827?style=for-the-badge&logo=github&logoColor=ffffff">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/roushan-goswami-574141392/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff">
-  </a>
-</p>
+Features:
 
-<br>
-<br>
+- User management.
+- Search functionality.
+- Filtering.
+- Pagination.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00D9FF,35:0C4A6E,70:071A2F,100:020617&section=footer" width="100%">
-</p>
+`React.js` `Next.js` `JavaScript`
 
-<p align="center">
-  <sub>© 2026 Roushan Goswami • Full Stack Web Developer</sub>
-</p>
+---
+
+### 04. JavaScript Projects
+
+<a href="https://github.com/RoushanGoswami/JAVASCRIPT">
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-2563EB?style=for-the-badge&logo=github" alt="JavaScript repository"/>
+</a>
+
+JavaScript implementations exploring programming fundamentals, application logic and interactive functionality.
+
+`JavaScript` `ECMAScript`
+
+---
+
+### 05. CSS Projects
+
+<a href="https://github.com/RoushanGoswami/CSS-PROJECTS">
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-2563EB?style=for-the-badge&logo=github" alt="CSS repository"/>
+</a>
+
+Frontend layouts, styling techniques and CSS implementations.
+
+`HTML5` `CSS3`
+
+---
+
+### 06. Bootstrap Projects
+
+<a href="https://github.com/RoushanGoswami/BOOTSTRAP">
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-2563EB?style=for-the-badge&logo=github" alt="Bootstrap repository"/>
+</a>
+
+Responsive interface development using Bootstrap components and layout utilities.
+
+`Bootstrap` `HTML5` `CSS3`
+
+---
+
+## `05` / CURRENT DEVELOPMENT FOCUS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-NODE.JS-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=00E5FF" alt="Node.js"/>
+<img src="https://img.shields.io/badge/02-EXPRESS.JS-0B1220?style=for-the-badge&logo=express&logoColor=00E5FF" alt="Express.js"/>
+<img src="https://img.shields.io/badge/03-MONGODB-0B1220?style=for-the-badge&logo=mongodb&logoColor=00E5FF" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/04-MONGOOSE-0B1220?style=for-the-badge&logo=mongoose&logoColor=00E5FF" alt="Mongoose"/>
+<img src="https://img.shields.io/badge/05-REST%20APIs-0B1220?style=for-the-badge&logo=postman&logoColor=00E5FF" alt="REST APIs"/>
+
+</div>
+
+My current engineering priorities:
+
+- Understanding backend architecture.
+- Building RESTful applications.
+- Improving database operations.
+- Developing structured API controllers.
+- Integrating frontend and backend systems.
+- Deepening JavaScript and TypeScript knowledge.
+
+**Direction:** Moving from individual application features toward understanding complete full-stack systems.
+
+---
+
+## `06` / GITHUB ANALYTICS
+
+<div align="center">
+
+### DEVELOPMENT STATISTICS
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RoushanGoswami&show_icons=true&hide_border=true&bg_color=05070D&title_color=00E5FF&icon_color=2563EB&text_color=94A3B8" alt="GitHub statistics"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoushanGoswami&layout=compact&hide_border=true&bg_color=05070D&title_color=00E5FF&text_color=94A3B8&langs_count=8" alt="Top programming languages"/>
+
+<br/><br/>
+
+### CONTRIBUTION STREAK
+
+<img width="75%" src="https://streak-stats.demolab.com?user=RoushanGoswami&theme=transparent&hide_border=true&background=05070D&ring=00E5FF&fire=2563EB&currStreakLabel=00E5FF&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+### CONTRIBUTION ACTIVITY
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RoushanGoswami&bg_color=05070D&color=94A3B8&line=00E5FF&point=2563EB&area=true&hide_border=true" alt="GitHub contribution graph"/>
+
+</div>
+
+<sub>Statistics are dynamically generated from public GitHub data. External service availability and API limitations may affect display.</sub>
+
+---
+
+## `07` / ENGINEERING PRINCIPLES
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**01**
+
+### CLEAN CODE
+
+Readable, organized and maintainable implementations.
+
+</td>
+<td width="33%" align="center">
+
+**02**
+
+### PROBLEM SOLVING
+
+Understanding challenges and developing practical solutions.
+
+</td>
+<td width="33%" align="center">
+
+**03**
+
+### CONTINUOUS GROWTH
+
+Consistent learning through experimentation and implementation.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `08` / LET'S CONNECT
+
+I'm open to connecting with fellow developers, exchanging technical knowledge and exploring meaningful development opportunities.
+
+<div align="center">
+
+<a href="https://github.com/RoushanGoswami">
+<img src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/roushan-goswami-574141392/">
+<img src="https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+**BUILD WITH PURPOSE. DEVELOP WITH PRECISION. GROW WITHOUT LIMITS.**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0B1220,100:05070D&height=120&section=footer" alt="Futuristic blue footer"/>
+
+**ROUSHAN GOSWAMI**  
+FULL STACK WEB DEVELOPER
+
+</div>
+```
